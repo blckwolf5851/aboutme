@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"Sherry Yuan",
+    "occupation":"Software Developer / NLP Research Intern",
+    "description":"I'm a current computer science student at University of Toronto focusing in Artificial Intelligence",
+    "image":"profilepic.jpg",
+    "bio":"I am a second year undergraduate student at University of Toronto, pursuing double major in computer science and econimics. I am currently managing a project in finance where se leveraged NLP and sentiment analysis to predict stock prices. In my spare time, I love digital painting and piano!",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "shanli.yuan@mail.utoronto.ca",
+    "phone": "6474480588",
+    "address":{
+      "street":"Eglinton, Avenue",
+      "city":"Toronto",
+      "state":"Ontario",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://github.com/blckwolf5851/AboutMe/blob/master/resume_v2.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/shyu0929/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/grapherydesign/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/blckwolf5851",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of Toronto - St. George",
+        "degree":"B.S in Computer Science and Economics",
+        "graduated":"Anticipated 2023",
+        "description": ["- GPA 3.97", "- Completed Course Work: Theory of Computation, Linear Algebra, Economics", "- Current Course Work: Software Design (Java, C++), Machine Learning, Statistic, Hardware, Database"]
+      }
+    ],
+    "work":[
+      {
+        "company":"University of Toronto - Department of Mathematics",
+        "title":"Teaching Assistance ",
+        "years":"Sep 2020 - Present",
+        "description":["- Teaching assistant for MAT223 (Linear Algebra)"]
+      },
+      {
+        "company":"FundPage",
+        "title":"Project Manager",
+        "years":"August 2020 - Present",
+        "description":["- Managed group of 8 on sentiment analysis for stock price prediction"]
+      },
+      {
+        "company":"University of Toronto - Department of Computer Science",
+        "title":"NLP Research Intern",
+        "years":"Jan 2020 - Sep 2020",
+        "description":["- Advanced pre-experimental stage processes through the development of algorithmic solution to data balancing.", "- Expanded research’s available data through the mining of external and alternative data.", "- Designed embedding space through multi-task learning to incorporate historical metaphorical knowledge into Bi-LSTM models, result in an improvement in accuracy"]
+      },
+      {
+        "company":"Ontario Institute for Studies in Education of the University of Toronto",
+        "title":"Quantitative Research Intern",
+        "years":"Oct 2019 - Present",
+        "description":["- Improved communication with non-technical members of the team through extensive data visualization and written reports.", "- Accelerated data filtering process through the implementation of machine learning classifier on political relevance and NLP predictive models on agreement detection", "- Produced and present quantitative writing on congress2020 (rescinded due to COVID-19)"]
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"Pytorch, TensorFlow, Keras",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"Deep learning (GAN, CV, NLP)",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"60%"
+      },
+      {
+        "name":"C++",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Book Recommender",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Sketch2Paint",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Research Reproduction",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Test",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
